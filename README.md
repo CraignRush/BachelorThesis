@@ -1,8 +1,10 @@
 # Superparamagnetic Nanoparticles in Picoliter Droplets for Measurements with Spin Valves
 
-## Heinz Nixdorf-Lehrstuhl für Biomedizinische Elektronik
-## Fakultät für Elektrotechnik und Informationstechnik
-## Technische Universität München
+_Heinz Nixdorf-Lehrstuhl für Biomedizinische Elektronik_
+
+_Fakultät für Elektrotechnik und Informationstechnik_
+
+_Technische Universität München_
 
 ### Abstract
 Droplet microfluidics - although invented in the early 1990s - receives growing attention
